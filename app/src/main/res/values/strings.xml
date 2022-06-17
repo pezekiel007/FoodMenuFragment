@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">FoodMenuFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //This section is for the names of the food
+    <string name="pap">Akara and Pap</string>
+    <string name="brown_rice">Brown Rice and Salmon</string>
+    <string name="custard">Custard and Epiti</string>
+    <string name="egusi_soup">Egusi and Fufu</string>
+    <string name="beans_plantain">Beans and Plantain</string>
+    <string name="beans">Fried Beans</string>
+    <string name="fried_rice">Fried Rice and Grilled Chicken</string>
+    <string name="jollof_rice">Jollof Rice and Tuna</string>
+    <string name="ofada_and_sauce">Ofada Rice and Assorted Sauce</string>
+    <string name="ofada_and_stew">Ofada Rice and Stew</string>
+    <string name="oziza_soup">Oziza Soup</string>
+    <string name="tea_and_sandwich">Tea and Sandwich</string>
+    <string name="vegie_fried_rice">Vegetable Fried Rice</string>
+    <string name="steamed_rice">White Rice and Grilled Salmon</string>
+    <string name="yam_and_sauce">Yam, Plantain and Egg Sauce</string>
+
+    //This section is for the details of the food
+    <string name="pap_detail">The Pap is made from the freshest Golden-Yellow corn eyes have ever seen; baked with the gifted hands of our exquisite chef; laced with a natural Goat\'s milk; served with Akara: perfectly fried, crispy on the outside and juicy on the inside. \nEnjoy!</string>
+    <string name="brown_rice_detail">Brown Rice that was made to suit the taste buds of royalty; cooked and stir fried with chopped pepper, tomato and garlic; to top it up, a well grilled salmon: crispy on the outside and juicy on the inside served with a side of our sauce-a-surprise. \nBon a petite!</string>
+    <string name="custard_detail">Custard made from the finest producers; tastefully made and served with the all known Peak Evaporated Milk; this comes with two wraps of Epiti; home made, with the finest of plantains and corn. \nEnjoy</string>
+    <string name="egusi_soup_detail">Egusi Soup with all the necessary traffic within in; kpomo, Beef etc. fried perfectly with less water and more soup served with our home made Fufu: supple, well rounded and luxuriant to touch. \nEnjoy!</string>
+    <string name="beans_plantain_detail">Home made Beans (porridge), laced with dried fish that sparks up  your taste buds and Plantain: well fried and juicy: with a side of smoked tuna. \nBon a petite</string>
+    <string name="beans_detail">Our exquisite Fried Beans made with our finest of ingredients and one of kind Palm Oil (Home made) with a fresh cent leaves to spice it up. \Enjoy</string>
+    <string name="fried_rice_detail">Fried Rice with carrots, green peas, bell peppers (green and red) and Grilled Chicken: moist and tender, juicy and mouth watering: served with a side of fried plantain. \nEnjoy</string>
+    <string name="jollof_rice_detail">Home made Nigerian Jollof Rice made with soul and love; served with fried Tuna and a rather colourful presentation with our in-house grown red and yellow bell pepper with a side of fried of fried plantain. \nBon a Petite</string>
+    <string name="ofada_and_sauce_detail">On of a kind and rare Ofada Rice and Assorted Sauce with served with a side of fried chopped plantains and fresh rosemary. \nEnjoy</string>
+    <string name="ofada_and_stew_detail">Ofada Rice and Dried Fish and Dried Meat Stew served with plantain leaf</string>
+    <string name="oziza_soup_detail">This is the exquisite Oziza Soup made with all sorts of assorted combo with an option of any swallow.</string>
+    <string name="tea_and_sandwich_detail">Full Cream Milk Tea and freshly made Sandwich with eggs, sausages and fresh stir fried ingredients. \nBon a Petite!</string>
+    <string name="vegie_fried_rice_detail">Colourful Vegetable Fried Rice filled with sweet corn, baked beans, green beans and bell peppers; served with three drumsticks: well grilled and laced with our exquisite white wine. \nBon a Petite!</string>
+    <string name="steamed_rice_detail">Steamed or White Rice and Grilled Salmon served with a side of plantains ( well fried ), freshly sliced cucumber and our magic tomato sauce. \nEnjoy!</string>
+    <string name="yam_and_sauce_detail">Yam (boiled) and Plantain (fried) both set cut in little cubes and Egg Sauce served with a dash of vegetable. \nBon a Petite!</string>
+
+    //This section is for the prices of the food
+    <string name="price_1">$50</string>
+    <string name="price_2">$55</string>
+    <string name="price_3">$60</string>
+    <string name="price_4">$65</string>
+    <string name="price_5">$70</string>
+    <string name="price_6">$75</string>
+    <string name="price_7">$80</string>
+    <string name="price_8">$85</string>
+    <string name="price_9">$90</string>
+    <string name="price_10">$95</string>
+    <string name="price_11">$100</string>
+    <string name="price_12">$110</string>
+    <string name="price_13">$115</string>
+    <string name="price_14">$120</string>
+    <string name="price_15">$150</string>
+
+    <string name="images_of_the_dishes">Images of the dishes</string>
+    <string name="food">Food</string>
+    <string name="prices">Prices</string>
+    <string name="switch_icon">switch icon</string>
+
+</resources>
